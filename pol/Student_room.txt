@@ -1,0 +1,6 @@
+bus	cira	girl	2
+beyz	kal	girl	5
+beyz	kal	girl	3
+gozde	tm	girl	3
+gozde	tmc	girl	3
+bc	cr	girl	4
